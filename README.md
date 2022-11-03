@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-Hello Project
+Hello Microverse Project
 
 > Description the project.
 It is done with html and css
