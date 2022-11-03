@@ -24,15 +24,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-
 ## Authors
 
 👤 **Jansue** 
-
 - GitHub: [@githubhandle](https://github.com/JansueT)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/cansu-tas-467844251/)
-
-
 
 ## 🤝 Contributing
 
